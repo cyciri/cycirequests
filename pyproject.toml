@@ -1,6 +1,6 @@
 [project]
 name = "cycirequests"
-version = "0.1.0"
+version = "1.0.0"
 description = "A library for making requests to the Cyciri API"
 authors = [
     {name = "cyciri",email = "cyrille.billard@gmail.com"}
